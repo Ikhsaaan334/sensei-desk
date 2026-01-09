@@ -142,7 +142,6 @@ The `DatabaseSeeder` creates a default Sensei (Admin) account for you.
 
 - **Email:** `Sensei@SchaleSensei.com`
 - **Password:** `shirokomybeloved`
-- **Environment Variable:** You can override the password in `.env` using `ADMIN_PASSWORD`.
 
 ## 📦 Deployment (Hosting)
 
