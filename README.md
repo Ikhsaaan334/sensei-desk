@@ -1,7 +1,6 @@
 # Sensei's Desk 📂
 
-![Sensei's Desk Banner](https://i.ibb.co.com/4g0k3j8/sensei-banner.png)
-_(Note: Replace with your own screenshot/banner if you have one)_
+![Sensei's Desk Banner](![hoshino-mid-autumn-blue-archive-moewalls-com](https://github.com/user-attachments/assets/1967bf1d-4323-4d86-b863-bb17a3a0e482))
 
 **Sensei's Desk** is a personal blog and archive system themed around _Blue Archive_ (Schale/Kivotos). Built with modern web technologies, it features a clean, student-council-inspired administrative dashboard and a sleek public-facing blog.
 
