@@ -10,7 +10,7 @@
 # Sensei's Desk 📂
 
 
-![Hoshino](https://github.com/user-attachments/assets/4c282eff-166e-481e-8c6b-fc8641333d2f)
+![hoshino-mid-autumn-blue-archive-moewalls-com](https://github.com/user-attachments/assets/1967bf1d-4323-4d86-b863-bb17a3a0e482)
 
 
 
