@@ -136,13 +136,6 @@ php artisan serve
 
 Access the application at `http://localhost:8000`.
 
-## 🔑 Default Credentials (Seeder)
-
-The `DatabaseSeeder` creates a default Sensei (Admin) account for you.
-
-- **Email:** `Sensei@SchaleSensei.com`
-- **Password:** `shirokomybeloved`
-
 ## 📦 Deployment (Hosting)
 
 This project is optimized for viewing on **VPS** or **Shared Hosting** (e.g., Niagahoster, Railway, Fly.io).
