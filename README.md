@@ -1,3 +1,12 @@
+<p align="center">
+    <img src="https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 12">
+    <img src="https://img.shields.io/badge/PHP-8.2%2B-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.2">
+    <img src="https://img.shields.io/badge/Inertia-2.0-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia 2.0">
+    <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19">
+    <img src="https://img.shields.io/badge/Tailwind-4.0-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind 4.0">
+    <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+</p>
+
 # Sensei's Desk 📂
 
 ![hoshino-mid-autumn-blue-archive-moewalls-com](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk3N2dvNmZuczFteGNyczJ1anNrbWtvNDZkODFsZ2NrODZ6eWEzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tn2tvmRCmHrlGKscu5/giphy.gif)
