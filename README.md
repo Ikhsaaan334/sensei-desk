@@ -8,7 +8,7 @@
 > "A quiet corner amidst the chaos of Kivotos, accessed via the Shittim Chest."
 
 ## Video Demo
-[![Video Preview](img.youtube.com)](https://www.youtube.com/watch?v=v21BPuJvT9I)
+[![Video Preview](https://img.youtube.com/vi/v21BPuJvT9I/maxresdefault.jpg)](https://www.youtube.com/watch?v=v21BPuJvT9I)
 
 
 ## 🚀 Tech Stack
