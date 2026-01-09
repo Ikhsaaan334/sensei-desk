@@ -9,7 +9,7 @@
 
 # Sensei's Desk 📂
 
-![hoshino-mid-autumn-blue-archive-moewalls-com](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk3N2dvNmZuczFteGNyczJ1anNrbWtvNDZkODFsZ2NrODZ6eWEzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tn2tvmRCmHrlGKscu5/giphy.gif)
+![hoshino-mid-autumn-blue-archive-moewalls-com](https://media.giphy.com/media/Tn2tvmRCmHrlGKscu5/giphy.gif)
 
 
 **Sensei's Desk** is a personal blog and archive system themed around _Blue Archive_ (Schale/Kivotos). Built with modern web technologies, it features a clean, student-council-inspired administrative dashboard and a sleek public-facing blog.
