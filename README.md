@@ -9,7 +9,8 @@
 
 # Sensei's Desk 📂
 
-![Hoshino Gif](https://media.giphy.com/media/Tn2tvmRCmHrlGKscu5/giphy.gif)
+
+![Uploading Untitled design (1).gif…]()
 
 
 **Sensei's Desk** is a personal blog and archive system themed around _Blue Archive_ (Schale/Kivotos). Built with modern web technologies, it features a clean, student-council-inspired administrative dashboard and a sleek public-facing blog.
